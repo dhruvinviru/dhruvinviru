@@ -42,12 +42,13 @@ I am a **Frontend-Focused Full-Stack Developer** passionate about crafting respo
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhruvinviru&show_icons=true&theme=tokyonight&hide_border=true" alt="Dhruvin's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvinviru&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvinviru&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvinviru&theme=tokyonight&hide_border=true" alt="Dhruvin's GitHub Streak" width="96%" />
+</p>
 ---
 
 ### 📬 Connect With Me
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 🌐 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
-- ✉️ **Email:** your.email@example.com
+- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/dhruvin-viradiya-792989299)
+- ✉️ **Email:** dhruvinviru@gmail.com
